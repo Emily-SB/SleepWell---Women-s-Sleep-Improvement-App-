@@ -1,11 +1,28 @@
-# SleepWell---Womens-Sleep-Improvement-App-
-A web app that helps women improve their sleep quality by providing personalized suggestions based on age, sleep habits, and menstrual cycle. Built with HTML, CSS, and JavaScript for a clean, responsive interface.  
+# SleepWell Women's Sleep Improvement App
 
-**SleepWell - Women's Sleep Improvement App**
+The **SleepWell** app is designed to help women improve their sleep quality through insightful tips, techniques, and tools. The app is built using HTML, CSS, and JavaScript to provide a simple, effective, and user-friendly interface.
 
-This is a simple web application designed to help women improve their sleep quality by offering personalized suggestions based on factors such as age, sleep quality, menstrual cycle, and lifestyle habits. The app collects user data through an intuitive form and provides tailored sleep improvement tips. The project includes HTML, CSS, and JavaScript to create a clean, responsive, and user-friendly interface.
+## Features
+- Easy navigation
+- Responsive design for mobile and desktop
+- Sleep improvement tips and tools
 
-**Features:**
-- Collects and processes user data to provide personalized sleep improvement suggestions.
-- Simple and elegant user interface.
-- Responsive design for desktop and mobile devices.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Running the App Locally
+
+To run the app locally on your machine, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/SleepWell-Womens-Sleep-Improvement-App.git
+2. **Navigate to the Project Folder**
+   ```bash
+   cd SleepWell-Womens-Sleep-Improvement-App
+3. **Open the App in Your Browser**
+
+   Double-click index.html file, or
+Open the folder and drag the index.html into your preferred browser.
